@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Sorting Algorithms Visualizer](#)**
+- 🔭 I’m currently working on **[Sorting Algorithms Visualizer](https://github.com/CodeOne45/Sorting-Algo-Animation/tree/main/sorting-alogo-anim)**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
