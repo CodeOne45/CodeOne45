@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Sorting Algorithms Visualizer](https://github.com/CodeOne45/Sorting-Algo-Animation/tree/main/sorting-alogo-anim)**
+- 🔭 I’m currently working on **[Music Web App](https://github.com/CodeOne45/discover-mesic)**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
